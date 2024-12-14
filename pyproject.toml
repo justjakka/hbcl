@@ -18,7 +18,7 @@ heybrochecklog = 'heybrochecklog.__main__:runner'
 
 [tool.poetry.dependencies]
 python = "^3.10"
-cchardet = "^2.1.7"
+faust-cchardet = "^2.1.19"
 chardet = "^5.1.0"
 pprp = "^0.2.7"
 
